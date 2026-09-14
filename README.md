@@ -1,6 +1,6 @@
 # Intent Classifier
 
-Classificador híbrido de intenções para consultas em linguagem natural, desenvolvido como parte de um pipeline experimental para um futuro assistente de IA integrado ao SUAP/IFMA.
+Classificador híbrido de intenções para consultas em linguagem natural, desenvolvido como parte de um pipeline experimental.
 
 O projeto recebe uma pergunta do usuário, calcula similaridade semântica e correspondência lexical com um conjunto de intenções conhecidas, combina os resultados em um score híbrido e retorna as intenções mais prováveis.
 
