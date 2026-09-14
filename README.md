@@ -430,6 +430,8 @@ Neste ponto, o foco do projeto passa para as próximas etapas do pipeline, em ve
 
 ---
 
+**Este projeto é experimental e desenvolvido para fins de estudo, pesquisa e prototipação.**
+
 ## License
 
-Este projeto é experimental e desenvolvido para fins de estudo, pesquisa e prototipação.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
