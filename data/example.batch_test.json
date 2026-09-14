@@ -1,0 +1,14 @@
+[
+  {
+    "query": "quero mudar meu turno para o período noturno",
+    "expected_intent": "mudanca_turno"
+  },
+  {
+    "query": "preciso parar o curso por alguns meses",
+    "expected_intent": "trancamento_curso"
+  },
+  {
+    "query": "onde consigo pegar o papel de declaração de aluno?",
+    "expected_intent": "comprovante_matricula"
+  }
+]

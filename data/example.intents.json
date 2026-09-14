@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mudanca_turno",
+    "description": "Solicitação para alteração de turno das aulas",
+    "keywords": ["trocar", "mudar", "turno", "manhã", "tarde", "noite", "horário"],
+    "examples": [
+      "Quero trocar de turno",
+      "Como faço para mudar o meu horário de aula?",
+      "Gostaria de mudar da tarde para a noite",
+      "É possível passar pras aulas da manhã?"
+    ]
+  },
+  {
+    "id": "trancamento_curso",
+    "description": "Solicitação de trancamento de matrícula ou pausa nos estudos",
+    "keywords": ["trancar", "pausar", "trancamento", "parar", "cancelar", "semestre"],
+    "examples": [
+      "Preciso trancar minha matrícula este semestre",
+      "Como faço o trancamento do curso?",
+      "Quero dar uma pausa nos estudos",
+      "Quais os documentos para trancar o semestre?"
+    ]
+  },
+  {
+    "id": "comprovante_matricula",
+    "description": "Emissão ou solicitação de declaração e comprovante de vínculo",
+    "keywords": ["comprovante", "declaração", "vínculo", "atestado", "emitiu", "pdf", "matrícula"],
+    "examples": [
+      "Onde baixo o comprovante de matrícula?",
+      "Preciso de uma declaração de vínculo acadêmico",
+      "Como emitir o atestado de matrícula em PDF?",
+      "Quero o documento que comprova que sou estudante"
+    ]
+  }
+]

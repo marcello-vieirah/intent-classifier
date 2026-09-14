@@ -1,0 +1,32 @@
+# Python-generated files
+
+**pycache**/
+*.pytest_cache/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual environment
+
+.venv/
+
+# Python version manager
+
+.python-version
+
+# Local benchmark data
+
+data/batch_test.json
+data/intents.json
+
+# logs
+batch_metrics.json
+errors_batch_metrics.json
+history.jsonl
+
+# Generated / local files
+
+repomix-output.xml
+*.xml

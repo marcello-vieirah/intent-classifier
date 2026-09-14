@@ -1,0 +1,25 @@
+[project]
+name = "intent-classifier"
+version = "0.1.0"
+description = "Motor enxuto e híbrido de classificação de intenções"
+readme = "README.md"
+authors = [
+    { name = "Marcello Vieira" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastembed>=0.8.0",
+    "numpy>=2.5.3",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[project.scripts]
+intent-classifier = "intent_classifier.cli:main"
